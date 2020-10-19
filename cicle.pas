@@ -13,9 +13,4 @@ begin
   if (a<b+c) and (b<c+a) and (c<b+a)
   then writeln(' triangle ')
   else writeln(' not triangle ');
-
-
-
 end.
-
-
