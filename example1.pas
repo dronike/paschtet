@@ -1,7 +1,7 @@
 var a:string;
 label b;
 begin
-  writeln('Как вас зовут?');
+  writeln('Как Вас зовут?');
   b:
     readln(a);
     if length(a)> 2
