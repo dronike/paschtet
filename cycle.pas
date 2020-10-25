@@ -2,6 +2,7 @@ var
     a:integer;
     b:integer;
     j:integer;
+
 begin
    writeln('Введите начала цикла');
    readln(a);
