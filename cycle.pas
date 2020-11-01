@@ -13,7 +13,7 @@ begin
 
    if a<b then begin
       writeln('FOR');
-      for j:=a to b do
+      for j:=a to b do 
         writeln (j);
       writeln('while');
        j:=a;
